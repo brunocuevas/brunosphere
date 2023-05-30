@@ -7,7 +7,7 @@ theme_version: '2.8.2'
 
 # Wellcome to the Brunosphere! 
 
-![My profile picture](/images/profilePic.png)
+![My profile picture](images/profilePic.png)
 
 I am a post-doctoral researcher at the University of Wisconsin-Madison, at the great lab of Prof. 
 Betül Kaçar. I obtained last year a Margarita Salas fellowship to carry out my research activity 
