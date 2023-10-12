@@ -1,34 +1,30 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'BrunoSphere'
-theme = 'ananke'
+theme = "hugo-theme-monochrome" 
 resourceDir = "../resources/"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 12 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
-[params]
-  text_color = "black"
-  author = "Bruno Cuevas"
-  favicon = ""
-  site_logo = ""
-  description = "The Brunosphere. Origin of Life, Tech "
-  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  recent_posts_number = 3
-
 [menu]
-[[menu.main]]
+[[menu.navbar]]
     identifier = "posts"
     name = "Posts"
     url = "/posts"
     weight = 2
 
-[[menu.main]]
+[[menu.navbar]]
     identifier = "about me"
     name = "About Me"
-    pageRef = "aboutme.md"
+    pageRef = "_index.md"
+    weight = 2
+
+[[menu.navbar]]
+    identifier = "Pictures"
+    name = "Pictures"
+    url = "/pictures"
     weight = 2
