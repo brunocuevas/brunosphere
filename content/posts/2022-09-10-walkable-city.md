@@ -1,6 +1,6 @@
 ---
 title: "Walkable City"
-featured_image: "images/WalkableCity.jpeg"
+featured_image: 
 description: "10 steps to improve walkability in American cities"
 date: 2023-05-29
 draft: false
@@ -8,6 +8,8 @@ tag: "book"
 ---
 
 # Walkable City
+
+![images/WalkableCity.jpeg](/images/WalkableCity.jpeg)
 
 Walkable City, by Jeff Speck, is one of the latest books that I have read. It has 
 taken me around 2 months to finish it (without public transport, my reading
