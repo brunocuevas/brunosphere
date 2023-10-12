@@ -9,7 +9,7 @@ tag: "book"
 
 # Walkable City
 
-![images/WalkableCity.jpeg](/images/WalkableCity.jpeg)
+![images/WalkableCity.jpeg](/brunosphere/images/WalkableCity.jpeg)
 
 Walkable City, by Jeff Speck, is one of the latest books that I have read. It has 
 taken me around 2 months to finish it (without public transport, my reading

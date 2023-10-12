@@ -1,6 +1,6 @@
 ---
-bookcase_cover_src: '/images/family-image-1.jpg'
-bookcase_cover_src_dark: '/images/family-image-1.jpg'
+bookcase_cover_src: '/brunosphere/images/family-image-1.jpg'
+bookcase_cover_src_dark: '/brunosphere/images/family-image-1.jpg'
 title: "My family when I was little"
 weight: 1000
 gallery_img_caption: 'foo'
@@ -16,6 +16,6 @@ data, we have ended up loosing most pictures of my childhood. I haven't
 seen a picture of how I looked like back then in at least 5 years!
 
 
-![Me, my brother and my father](/images/family-image-2.jpg)
-![Me, my brother and my mother](/images/family-image-1.jpg)
+![Me, my brother and my father](/brunosphere/images/family-image-2.jpg)
+![Me, my brother and my mother](/brunosphere/images/family-image-1.jpg)
 

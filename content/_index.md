@@ -4,7 +4,7 @@ title: "About me!"
 
 # Wellcome to the Brunosphere! 
 
-![My profile picture](/static/images/profilePic.png)
+![My profile picture](/brunosphere/images/profilePic.png)
 
 ## Who is Bruno?
 
