@@ -2,7 +2,7 @@
 title: "About me!"
 ---
 
-# Wellcome to the Brunosphere! 
+# Welcome to the Brunosphere! 
 
 ![My profile picture](/brunosphere/images/profilePic.png)
 
